@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository contains c# source files for the Berry Mania game developed using the Unity Game Engine
 
-## Purpose
 
-Sample website with plenty of files for demos
+
